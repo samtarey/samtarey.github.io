@@ -1,0 +1,45 @@
+* {
+	/*border: 1px red solid !important;*/
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+	color: #D0C4AB;
+}
+
+.background {
+	background-color: #131A2D;
+}
+
+.header-title {
+	color: #131A2D;
+	font-weight: 900;
+	font-size: 60px;
+}
+
+.header-subtitle {
+	color: #131A2D;
+	font-size: 20px;
+}
+
+.rule {
+	height: 3px;
+	background-color: #D0C4AB;
+}
+
+.container-margin {
+	margin-top: 100px;
+}
+
+.logo-margin {
+	margin-top: 20px;
+}
+
+.hero-image-margin {
+	margin-top: 20px;
+}
+
+.hero-image-padding {
+	padding-left: 0px;
+	padding-right: 0px;
+}

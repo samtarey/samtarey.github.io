@@ -1,0 +1,47 @@
+*{
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	/*border: 1px red solid !important;*/
+}
+
+.top {
+	background-color: gray;
+}
+
+.bottom {
+	background-color: #F0F0F0;
+	height: 300px;
+}
+
+.textWhite {
+	color: white;
+}
+
+.marginH1 {
+	margin-top: 120px;
+	margin-bottom: 120px;
+}
+
+.mainContent {
+	padding: 70px 100px;
+}
+
+.h2Style {
+	color: #FF9900;
+}
+.mockupBorder {
+	border: 1px #E6E6E6 solid !important;
+	box-shadow: 1px 1px #CCCCCC;
+	padding: 5px 5px;
+}
+
+.col3Margin {
+	margin-top: 10px;
+}
+
+.rowMargin {
+	margin-top: 30px;
+	margin-bottom: 100px;
+}
